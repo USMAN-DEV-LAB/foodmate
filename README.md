@@ -1,4 +1,4 @@
-# excellent_trade_app
+# Foodmate
 
 A new Flutter project.
 
